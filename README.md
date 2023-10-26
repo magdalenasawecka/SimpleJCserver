@@ -1,1 +1,1 @@
-# SimpleJCserver
+# SimpleJsserver
